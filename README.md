@@ -3,3 +3,7 @@
 i am yore nyakundi from Kenya,and i do content on software development,data analysis,machine learning and  prompt developer.I really enjoy react and reactnative in frontend django on backend as well as work in wordpress
 
 [![yorkings's GitHub stats](https://github-readme-stats.vercel.app/api?username=yorkings)](https://github.com/anuraghazra/github-readme-stats)
+
+
+# 💻 Tech Stack:
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
