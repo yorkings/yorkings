@@ -14,3 +14,6 @@ i am yore nyakundi from Kenya,and i do content on software development,data anal
 [<img align="left" alt="yorkings | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="yorkings | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="yorkings | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[twitter]: https://twitter.com/yorkings
+[instagram]: https://www.instagram.com/yorkings/
+[linkedin]: https://linkedin.com/in//yorke-nyakundi-013825239
