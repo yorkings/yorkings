@@ -16,11 +16,9 @@ i am yore nyakundi from Kenya,and i do content on software development,data anal
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js&logoColor=white" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Adonisjs-black?style=flat-square&logo=adonisjs" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxtjs" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Go" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=Streamlit" width="80" height="30"/>
@@ -34,21 +32,6 @@ i am yore nyakundi from Kenya,and i do content on software development,data anal
     <img src="https://img.shields.io/badge/-Dialogflow-black?style=flat-square&logo=Dialogflow" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Visual Studio Code-black?style=flat-square&logo=Visual-Studio-Code" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Microsoft Azure-black?style=flat-square&logo=Microsoft-Azure" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-QGIS-black?style=flat-square&logo=QGIS" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-GeoDjango-black?style=flat-square&logo=Django" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-FlutterFlow-black?style=flat-square&logo=FlutterFlow" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-IBM Cloud-black?style=flat-square&logo=IBM" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Microsoft Excel-black?style=flat-square&logo=microsoft-excel" width="80" height="30"/>
-   
-    <img src="https://img.shields.io/badge/-Amazon AWS-black?style=flat-square&logo=amazon-aws" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Scikit Learn-black?style=flat-square&logo=scikit-learn" width="80" height="30"/>
 
 </p><br />
 
