@@ -1,45 +1,35 @@
-### Good day there 👋
+Hi there 👋
+I'm Yorke Nyakundi, a content creator from Kenya with a passion for software development. My expertise lies in a variety of areas, including data analysis, machine learning, and prompt engineering.
 
-i am yorke nyakundi from Kenya,and i do content on software development,data analysis,machine learning and  prompt developer.I really enjoy react and reactnative in frontend django on backend as well as work in wordpress.currently  I am learning nextjs
+I have a strong affinity for React and React Native on the frontend and Django on the backend. I also enjoy working with WordPress and am currently expanding my skills by learning Next.js.
 
-[![yorkings's GitHub stats](https://github.com/yorkings/github-readme-stats)
+<div align="center">
+<a href="https://github.com/yorkings/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=yorkings&show_icons=true&theme=vue-dark&hide_border=true" alt="yorkings's GitHub stats" />
+</a>
+</div>
 
+💻 Tech Stack
+<div align="center">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/MySQL-005C81?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
 
-# 💻 Tech Stack:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<p align="left">
-    <!-- Existing Logos with Corrections -->
-    <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=white" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel&logoColor=white" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js&logoColor=white" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxtjs" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=Streamlit" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Dialogflow-black?style=flat-square&logo=Dialogflow" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" width="80" height="30"/>
-
-</p><br />
-
-## ⚡️ Technologies
-
-<p align="left"> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-## connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yorke-nyakundi-013825239/)
- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NyakundiYorke)
-
+📫 Connect with me
+<div align="center">
+<a href="https://www.linkedin.com/in/yorke-nyakundi-013825239/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/NyakundiYorke">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+</div>
