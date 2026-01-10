@@ -164,3 +164,11 @@
 <div align="center">
   <p><em>"The only way to do great work is to love what you do." – Steve Jobs</em></p>
 </div>
+<div align="center">
+  <h3>Vernal AI</h3>
+  <p> currently i am working on a project called vernalAI this is a big project about creating a different  AI  not by just the current llm architecture and transformers available but custom built ones by me using research</p>
+ <hr/>
+  <p>heres the readme of the project</p>
+  <a href="https://github.com/yorkings/vernalAI_ReadME/blob/main/README.md"> vernalAI readme</a>
+  
+</div>
